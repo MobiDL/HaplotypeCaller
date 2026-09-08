@@ -71,7 +71,7 @@ HaplotypeCaller/
 
 ## ⚙️ Workflow Steps
 
-<img width="1000" height="1540" alt="HaplotypeCaller (1)" src="https://github.com/user-attachments/assets/ba56e016-6694-43a5-afcd-2cefe37ab176" />
+<img height="840" alt="HaplotypeCaller" src="https://github.com/user-attachments/assets/6e864de5-bbba-4003-9cb1-981fd4b643aa" />
 
 ---
 
