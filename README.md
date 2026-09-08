@@ -59,10 +59,11 @@ cromwell run HaplotypeCaller.wdl -i inputs.json
 ## 📂 Repository Structure
 
 ```
-alignmentSR/
-├── tasks/                   # Tasks sub-repository
+HaplotypeCaller/
+├── backends.conf/           # Backends sub-repository
+├── modules/                 # Modules sub-repository
+├── tests/                   # tests directory containing minimal dataset
 ├── HaplotypeCaller.wdl      # Main workflow file
-├── inputs.json              # Example input configuration
 └── README.md                # This file
 ```
 
@@ -77,9 +78,6 @@ alignmentSR/
 ## 📊 Outputs
 
 - **VCF files**: Variant Calling Format file(s)
-
-- **QC Reports**: FastQC, MultiQC, and alignment metrics.
-- **Logs**: Execution logs for debugging.
 
 ---
 
