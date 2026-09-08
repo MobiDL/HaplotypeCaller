@@ -1,0 +1,7 @@
+{
+	"HaplotypeCaller.sample": "test",
+	"HaplotypeCaller.bed": "tests/bed/test.bed",
+	"HaplotypeCaller.fasta": "tests/fasta/chr.fa",
+    "HaplotypeCaller.bam": ["tests/bam/sample.bam"],
+	"HaplotypeCaller.outputPath": "output/"
+}
