@@ -143,7 +143,7 @@ workflow HaplotypeCaller {
 
 	output {
 		File vcf = norm.outputvcf
-		File? idx = nor.outputidx
+		File? idx = norm.outputidx
 	}
 	
 	parameter_meta {
